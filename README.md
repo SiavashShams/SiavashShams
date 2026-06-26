@@ -1,7 +1,10 @@
 <!-- ===== Banner ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Siavash%20Shams&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%26%20Researcher&descSize=22&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" />
 </p>
+
+<h1 align="center">Siavash Shams</h1>
+<p align="center"><b>Machine Learning Engineer &amp; Researcher</b></p>
 
 <p align="center">
   🧠 Into <b>foundation models</b>, <b>LLM safety</b>, and <b>agentic AI</b> &nbsp;·&nbsp; 🛠️ always building something &nbsp;·&nbsp; 📍 San Francisco
