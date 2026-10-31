@@ -4,10 +4,11 @@
 </p>
 
 <h1 align="center">Siavash Shams</h1>
-<p align="center"><b>Machine Learning Engineer &amp; Researcher</b></p>
+<p align="center"><b>Senior Machine Learning Engineer at Ambience Healthcare</b></p>
 
 <p align="center">
-  🧠 Into <b>foundation models</b>, <b>LLM safety</b>, and <b>agentic AI</b> &nbsp;·&nbsp; 🛠️ always building something &nbsp;·&nbsp; 📍 San Francisco
+  Audio &amp; speech AI: <b>speech-to-text</b>, <b>text-to-speech</b>, and <b>voice agents</b>.<br>
+  Research in audio representation learning and neural speech decoding. Based in San Francisco.
 </p>
 
 <!-- ===== Socials ===== -->
@@ -17,6 +18,15 @@
   <a href="https://scholar.google.de/citations?user=xo02sD0AAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
   <a href="mailto:siavashshams.ac@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
+
+---
+
+### Selected audio & speech work
+
+- [SSAMBA](https://github.com/SiavashShams/ssamba): self-supervised audio representation learning with Mamba, IEEE SLT 2024.
+- [Neuro2Semantic](https://github.com/SiavashShams/neuro2semantic): reconstructing language from neural signals, Interspeech 2025.
+- [Listen, Chat, and Edit on the Edge](https://github.com/SiavashShams/Listen-Chat-Edit-on-Edge): language-guided audio editing with Llama 2 and Conv-TasNet on Jetson Nano.
+- [Music Orchestrator](https://github.com/susameddin/music_orchestrator): collaborative work on text-guided music generation with MusicGen.
 
 ---
 
